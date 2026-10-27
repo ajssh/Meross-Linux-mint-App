@@ -3,7 +3,10 @@
 A small GTK3 app, command-line tool, Rofi menu and polybar module for controlling Meross smart RGB bulbs
 **over your LAN**. No cloud is used at runtime. The Meross cloud is contacted once, only to fetch your account key.
 
-![image](https://github.com/user-attachments/assets/17fa3b4d-17a3-4ca1-85b1-7cc8b61ba6a3) 
+<div align="center">
+<img width="400" src="images/image-1.png" >
+</div>
+
 
 ## Features
 
